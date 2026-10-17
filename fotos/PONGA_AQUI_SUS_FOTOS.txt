@@ -1,0 +1,4 @@
+Ponga aqui sus fotos (por ejemplo portada.jpg, contador.jpg, foto1.jpg).
+Luego abra index.html con el Bloc de notas y busque el bloque PHOTOS para escribir sus nombres, por ejemplo:
+  hero: "fotos/portada.jpg",
+Vea LEEME.txt en la carpeta principal.
